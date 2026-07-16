@@ -31,6 +31,9 @@ I'm a **Full Stack & Desktop Software Engineer** dedicated to writing clean, mai
 #### **Tools & Environments**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![VB6 IDE](https://img.shields.io/badge/VB6_IDE-003399?style=flat-square&logo=visual-basic&logoColor=white)
+
 
 ---
 
