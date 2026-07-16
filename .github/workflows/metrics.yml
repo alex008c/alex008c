@@ -1,0 +1,35 @@
+name: Metrics
+on:
+  # Se ejecuta automáticamente todos los días a la medianoche (hora UTC)
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutarlo manualmente desde la pestaña Actions en GitHub
+  workflow_dispatch:
+  # Se ejecuta automáticamente al hacer push a la rama main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Token de acceso que creaste y guardaste en Settings -> Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Opciones de usuario y visualización
+          user: alex008c
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Santo_Domingo
+          
+          # Plugin de lenguajes más usados
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          
+          # Orden de los elementos en la imagen
+          config_order: base.header, base.activity, base.repositories, base.metadata, languages

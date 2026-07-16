@@ -38,8 +38,9 @@ I'm a **Full Stack & Desktop Software Engineer** dedicated to writing clean, mai
 ### 📊 GitHub Metrics
 Since I work on private repositories, you'll see my activity reflected here:
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex008c&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex008c&layout=compact&theme=dark&hide_border=true)
+
+![Alex's GitHub Metrics](./github-metrics.svg)
+
 
 ---
 
