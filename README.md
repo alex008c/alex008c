@@ -15,7 +15,6 @@ I'm a **Full Stack & Desktop Software Engineer** dedicated to writing clean, mai
 ### 🛠️ Tech Stack
 
 #### **Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,13 +25,12 @@ I'm a **Full Stack & Desktop Software Engineer** dedicated to writing clean, mai
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC107?style=flat-square&logo=tauri&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 #### **Tools & Environments**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VB6 IDE](https://img.shields.io/badge/VB6_IDE-003399?style=flat-square&logo=visual-basic&logoColor=white)
+
 
 
 ---
